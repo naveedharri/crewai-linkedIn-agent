@@ -1,9 +1,3 @@
-<p align="center">
-    <img alt="img" src="img/img.png" width=400 />
-    <h1 align="center">Automating LinkedIn Post</h1>
-    <h3 align="center">crewAI automates my LinkedIn Posts </h3>
-</p>
-
 ---
 
 ## Description
@@ -26,10 +20,6 @@ you can choose whatever you want (you'll need to modify the Tasks and Agents of 
 
 This agent has to deal with the information gathered by the two previous agents and write a high quality and engaging
 LinkedIn post emulating my writing style.
-
-<p align="center">
-    <img alt="img" src="img/architecture.png" width=400 />
-</p>
 
 ## Usage
 
